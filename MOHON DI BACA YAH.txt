@@ -2,3 +2,5 @@ MOHON DI BACA YAH
 
 -untuk yang di edit itu file yang namanya edit.html
 -jadi di situ udah tak tandai yang bagian mana yg harus di edit, boleh di tambahin class ataupun style, tapi jangan sampai ngerubah yg namanya style.css
+
+Terima kasih;
